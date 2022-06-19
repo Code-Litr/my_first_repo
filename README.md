@@ -9,4 +9,4 @@
 Добавили текст через браузер. Retry add english text in local.
 
 ## Add text to end
-*Добавили текст в другой ветке - readmeedit*
+*Добавили текст в другой ветке - readmeedit*.....
