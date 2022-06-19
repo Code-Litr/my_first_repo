@@ -4,4 +4,4 @@
 
 Добавил второй текст
 
-Добавили текст через браузер. Add english text in browser.
+Добавили текст через браузер. Add english text in local.
